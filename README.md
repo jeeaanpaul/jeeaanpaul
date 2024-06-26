@@ -1,8 +1,11 @@
+Introduction
+============
+
 I'm a 20 year old IT apprentice and highly interested in technology, especially in the areas of cybersecurity, virtualization and linux.  
 Here I will share some of my projects...
 
 
-# Languages and Tools
+## Languages and Tools
 <div style="display: flex;">
 <img alt="shell script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img alt="YAML" src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515">
@@ -28,5 +31,5 @@ Here I will share some of my projects...
 </div>
 
 
-# Projects
-...
+## Projects
+coming soon...
