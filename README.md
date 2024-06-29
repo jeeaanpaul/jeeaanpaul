@@ -9,7 +9,7 @@ I'm a 20y old IT Apprentice from Switzerland. I am highly interested in technolo
 - :computer: Starting my position as a System Engineer in August 2024.
 - :snake: Currently learning Python...
 
-My technologies and tools:
+My technologies, languages and tools:
 - Scripting: <br />
     ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
     ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
