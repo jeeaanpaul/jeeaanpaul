@@ -4,7 +4,8 @@
 <a href="https://medium.com/@jean-paul.bitschnau"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="https://www.instagram.com/jeanpaulbitschnau/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
-I'm a 20y old IT Apprentice from Switzerland :switzerland:. I am highly interested in technology, especially in the areas of cybersecurity, virtualization and linux.
+I'm a 20y old IT Apprentice from Switzerland :switzerland:.  
+I am highly interested in technology, especially in the areas of cybersecurity, virtualization and linux.
 - :student: Finishing my 4-Year Apprenticeship in August 2024.
 - :computer: Starting my position as a System Engineer in August 2024.
 - :snake: Currently learning Python...
