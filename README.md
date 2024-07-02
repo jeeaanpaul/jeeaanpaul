@@ -31,4 +31,4 @@ My technologies, languages and tools:
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-More about me and my projects :point_right: [website](https://jeanpaulbitschnau.ch).
+More about me and my projects :point_right: [website](https://jeanpaulbitschnau.dev).
