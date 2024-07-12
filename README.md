@@ -7,6 +7,7 @@
 I'm a 20y old IT Apprentice from Switzerland :switzerland:.  
 I am highly interested in technology, especially in the areas of cybersecurity, virtualization and linux.
 - :student: Finishing my 4-Year Apprenticeship in August 2024.
+- :penguin: Starting my new position as a Linux System Engineer in August 2024.
 - :snake: Currently learning Python...
 
 My technologies, languages and tools:
