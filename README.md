@@ -9,7 +9,7 @@ I am highly interested in technology, especially in the areas of cybersecurity, 
 - :penguin: Starting my new position as a Linux System Engineer in August 2024.
 - :snake: Currently learning Python...
 
-My technologies, languages and tools:
+Languages and Tools:
 - Scripting: <br />
     ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
     ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
